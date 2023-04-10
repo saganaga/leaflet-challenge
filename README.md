@@ -6,13 +6,16 @@ The USGS is interested in building a new set of tools that will allow them to vi
 ## Overview
 ### Create the Earthquake Visualization
 #### Map
-- [ ] TileLayer loads without error
-- [ ] Connects to geojson API using D3 without error
-- [ ] Markers with size corresponding to earthquake magnitude
-- [ ] A legend showing the depth and their corresponding color
+- [x] TileLayer loads without error
+- [x] Connects to geojson API using D3 without error
+- [x] Markers with size corresponding to earthquake magnitude
+- [x] A legend showing the depth and their corresponding color
 #### Data Points
-- [ ] Data points scale with magnitude level
-- [ ] Data points colors change with depth level
-- [ ] Each point has a tooltip with the Magnitude, the location and depth
-- [ ] All data points load in the correct locations
+- [x] Data points scale with magnitude level
+- [x] Data points colors change with depth level
+- [x] Each point has a tooltip with the Magnitude, the location and depth
+- [x] All data points load in the correct locations
 ## Notes
+Started out following the UofMN Data Visualization Week 15 Class 2 Activity 01-Evr_BasicsNYCBororoughs.
+Matched colors from the six legend colors from given expected results map using Digital Color Meter https://support.apple.com/guide/digital-color-meter/welcome/mac and RGB to HEX Color Converter https://www.rgbtohex.net/
+Referred to UofMN Data Visualization Week 15 Class 2 Activity 04-Par_SchoolDistrictChoropleth for style.css file.
