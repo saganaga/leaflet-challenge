@@ -19,3 +19,5 @@ The USGS is interested in building a new set of tools that will allow them to vi
 Started out following the UofMN Data Visualization Week 15 Class 2 Activity 01-Evr_BasicsNYCBororoughs.
 Matched colors from the six legend colors from given expected results map using Digital Color Meter https://support.apple.com/guide/digital-color-meter/welcome/mac and RGB to HEX Color Converter https://www.rgbtohex.net/
 Referred to UofMN Data Visualization Week 15 Class 2 Activity 04-Par_SchoolDistrictChoropleth for style.css file.
+### Data
+Tectonic plates data from https://github.com/fraxen/tectonicplates under Open Data Commons Attribution License.
