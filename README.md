@@ -21,3 +21,8 @@ Matched colors from the six legend colors from given expected results map using 
 Referred to UofMN Data Visualization Week 15 Class 2 Activity 04-Par_SchoolDistrictChoropleth for style.css file.
 ### Data
 Tectonic plates data from https://github.com/fraxen/tectonicplates under Open Data Commons Attribution License.
+## Results
+Part-1 Map
+![Part-1 Map](Part1.png)
+Part-2 Map
+![Part-2 Map](Part2.png)
